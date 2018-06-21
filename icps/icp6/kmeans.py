@@ -15,7 +15,7 @@ score = [kmeans[i].fit(Y).score(Y) for i in range(len(kmeans))]
 
 score
 
-pl.plot(Nc,score)
+pl.plot(Nc,score)#plots the  number of clusters and the score obtainedd 
 
 pl.xlabel('Number of Clusters')
 
@@ -23,7 +23,7 @@ pl.ylabel('Score')
 
 pl.title('Elbow Curve')
 
-pl.show()
+pl.show()# it shows all the plots we have mentioned abovr
 
 pca = PCA(n_components=1).fit(Y)
 
