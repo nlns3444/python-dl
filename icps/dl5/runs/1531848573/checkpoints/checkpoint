@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/nlns/Downloads/DeepLearning_Lesson5/runs/1531848573/checkpoints/model-150"
+all_model_checkpoint_paths: "/Users/nlns/Downloads/DeepLearning_Lesson5/runs/1531848573/checkpoints/model-110"
+all_model_checkpoint_paths: "/Users/nlns/Downloads/DeepLearning_Lesson5/runs/1531848573/checkpoints/model-120"
+all_model_checkpoint_paths: "/Users/nlns/Downloads/DeepLearning_Lesson5/runs/1531848573/checkpoints/model-130"
+all_model_checkpoint_paths: "/Users/nlns/Downloads/DeepLearning_Lesson5/runs/1531848573/checkpoints/model-140"
+all_model_checkpoint_paths: "/Users/nlns/Downloads/DeepLearning_Lesson5/runs/1531848573/checkpoints/model-150"
