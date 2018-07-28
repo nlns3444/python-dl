@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Users\\aravi\\PycharmProjects\\DL-Lab-4\\runs\\1532529962\\checkpoints\\model-80"
+all_model_checkpoint_paths: "C:\\Users\\aravi\\PycharmProjects\\DL-Lab-4\\runs\\1532529962\\checkpoints\\model-40"
+all_model_checkpoint_paths: "C:\\Users\\aravi\\PycharmProjects\\DL-Lab-4\\runs\\1532529962\\checkpoints\\model-80"
